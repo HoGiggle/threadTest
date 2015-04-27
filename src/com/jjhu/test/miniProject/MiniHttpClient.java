@@ -1,4 +1,4 @@
-package threadTest;
+package com.jjhu.test.miniProject;
 
 import java.io.IOException;
 

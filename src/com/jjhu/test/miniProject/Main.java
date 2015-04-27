@@ -1,7 +1,6 @@
-package threadTest;
+package com.jjhu.test.miniProject;
 
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.List;
 import java.util.concurrent.CountDownLatch;
 

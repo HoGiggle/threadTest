@@ -1,4 +1,4 @@
-package threadTest;
+package com.jjhu.test.miniProject;
 
 public class ThreadTwo extends Thread {
 
